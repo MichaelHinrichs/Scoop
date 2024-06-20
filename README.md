@@ -15,7 +15,7 @@
     <a href="https://github.com/ScoopInstaller/Scoop"><img src="https://img.shields.io/github/languages/code-size/ScoopInstaller/Scoop.svg" alt="Code Size" /></a>
     <a href="https://github.com/ScoopInstaller/Scoop"><img src="https://img.shields.io/github/repo-size/ScoopInstaller/Scoop.svg" alt="Repository size" /></a>
     <a href="https://github.com/ScoopInstaller/Scoop/actions/workflows/ci.yml"><img src="https://github.com/ScoopInstaller/Scoop/actions/workflows/ci.yml/badge.svg" alt="Scoop Core CI Tests" /></a>
-    <a href="https://discord.gg/s9yRQHt"><img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" /></a>
+    <a href="https://discord.gg/s9yRQHt"><img alt="Discord" src="https://img.shields.io/discord/s9yRQHt?logo=Discord"></a>
     <a href="https://gitter.im/lukesampson/scoop"><img src="https://badges.gitter.im/lukesampson/scoop.png" alt="Gitter Chat" /></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/license-UNLICENSE%20or%20MIT-blue" alt="License" /></a>
 </p>
