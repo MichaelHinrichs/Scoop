@@ -100,7 +100,7 @@ If you would like to improve Scoop by adding features or fixing bugs, please rea
 
 If you find Scoop useful and would like to support the ongoing development and maintenance of this project, you can donate here:
 
-- [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DM2SUH9EUXSKJ) (one-time donations)
+- [![Static Badge](https://img.shields.io/badge/Paypal-012169?logo=Paypal&labelColor=555&color=012169)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DM2SUH9EUXSKJ) (one-time donations)
 
 ## Known application buckets
 
