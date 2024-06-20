@@ -83,7 +83,7 @@ You can tweak the following `aria2` settings with the `scoop config` command:
 
 ## Inspiration
 
-- [Homebrew](https://brew.sh/)
+- [![Static Badge](https://img.shields.io/badge/Homebrew-FBB040?logo=Homebrew&labelColor=555&color=FBB040)](https://brew.sh/)
 - [Sub](https://signalvnoise.com/posts/3264-automating-with-convention-introducing-sub)
 
 ## What sort of apps can Scoop install?
